@@ -657,30 +657,19 @@ Generate production-ready code with proper folder structure, documentation, envi
   - Appointment Booking Integration  
 
 
-## Screenshots
- 
+## Website view Screenshots
 
-- **Dashboard**  
-  ![Dashboard](dashboard.png)  
+<p align="center">
+  <img src="Dashboard%201.png" width="250"/>
+  <img src="Ai%20scanner.png" width="250"/>
+  <img src="Ai%20chat.png" width="250"/>
+</p>
 
-- **AI Scanner**  
-  ![AI Scanner](screenshots/scanner.png)  
-
-- **AI Chat**  
-  ![AI Chat](screenshots/chat.png)  
-
-- **History Page**  
-  ![History](screenshots/history.png)  
-
-- **Appointments Page**  
-  ![Appointments](screenshots/appointments.png)  
-
-- **Profile Page**  
-  ![Profile](screenshots/profile.png)  
-
-- **Download App Page**  
-  ![Download App](screenshots/download.png)  
-
+<p align="center">
+  <img src="Appointment.png" width="250"/>
+  <img src="Histroy.png" width="250"/>
+  <img src="Profile.png" width="250"/>
+</p>
 
 
 
