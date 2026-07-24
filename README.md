@@ -661,7 +661,7 @@ Generate production-ready code with proper folder structure, documentation, envi
  
 
 - **Dashboard**  
-  ![Dashboard](screenshots/dashboard.png)  
+  ![Dashboard](dashboard.png)  
 
 - **AI Scanner**  
   ![AI Scanner](screenshots/scanner.png)  
