@@ -679,15 +679,15 @@ Generate production-ready code with proper folder structure, documentation, envi
 ## App view view Screenshots
 
 <p align="center">
-  <img src="Dashboard%201.png" width="250"/>
-  <img src="Ai%20scanner.png" width="250"/>
-  <img src="Ai%20chat.png" width="250"/>
+  <img src="Home.jpeg" width="250"/>
+  <img src="Scan.jpeg" width="250"/>
+  <img src="Ai chat bot.jpeg" width="250"/>
 </p>
 
 <p align="center">
-  <img src="Appointment.png" width="250"/>
-  <img src="Histroy.png" width="250"/>
-  <img src="Profile.png" width="250"/>
+  <img src="scan 1.jpeg" width="250"/>
+  <img src="Histroy.jpeg" width="250"/>
+  <img src="Book appointment.jpeg" width="250"/>
 </p>
 
 
