@@ -7,6 +7,11 @@ Many people in my community don’t have easy access to dermatologists. This app
 
 https://production-ai-dermat-guuw.bolt.host
 
+# How to start :
+Click on that link you have two option in web app
+1. Sign Up
+2. Continue as a guest 
+
  ## Website Features
  **Homepage with Upload Button**  Users can upload a skin photo directly from their device.  
  **Image Preview**  Shows the uploaded image before analysis so users can confirm it’s correct.  
