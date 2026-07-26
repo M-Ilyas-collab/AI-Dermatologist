@@ -5,7 +5,7 @@ A web app that helps users analyze skin conditions by uploading an image.
 Many people in my community don’t have easy access to dermatologists. This app provides quick, AI-powered preliminary analysis to guide them toward   professional care.
 # Live Deployed URL : 
 
-https://production-ai-dermat-guuw.bolt.host
+https://universal-signup-and-9gn3.bolt.host
 
 # How to start :
 Click on that link you have two option in web app
